@@ -2,7 +2,7 @@
 
 ## DeepTech_Ready Upskilling Program (3MTT)
 
-This repository documents my progress and  hands-on practice for **Week 1** of the **Advanced Data Analysis and Visualization** track under the **3MTT DeepTech Ready Upskilling Program**.
+This repository documents my learning journey and  hands-on practice for **Week 1** of the **Advanced Data Analysis and Visualization** track under the **3MTT DeepTech Ready Upskilling Program**.
 
 ---
 
